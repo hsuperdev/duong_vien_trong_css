@@ -1,0 +1,46 @@
+p.dotted {
+    border-style: dotted;
+    border-width: 15px;
+    border-color: #4CAF50;
+}
+
+p.dashed {
+    border-style: dashed;
+    border: 5px dashed red; /*dang tong hop*/
+}
+
+p.solid {
+    border-style: solid;
+}
+
+p.double {
+    border-style: double;
+}
+
+p.groove {
+    border-style: groove;
+}
+
+p.ridge {
+    border-style: ridge;
+}
+
+p.inset {
+    border-style: inset;
+}
+
+p.outset {
+    border-style: outset;
+}
+
+p.none {
+    border-style: none;
+}
+
+p.hidden {
+    border-style: hidden;
+}
+
+p.mix {
+    border-style: dotted dashed solid double;
+}
